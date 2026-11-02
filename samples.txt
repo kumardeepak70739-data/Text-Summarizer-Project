@@ -1,0 +1,19 @@
+======================================================================
+SAMPLE ARTICLE 1: Artificial Intelligence in Healthcare
+======================================================================
+
+ORIGINAL TEXT:
+Artificial intelligence (AI) is transforming the healthcare industry by enabling faster and more accurate diagnoses, personalizing treatment plans, and streamlining administrative workflows. Machine learning algorithms analyze vast amounts of medical imaging data, such as X-rays and MRIs, to assist radiologists in detecting early signs of diseases like cancer with higher precision. Furthermore, natural language processing tools help extract key insights from unstructured clinical notes, reducing the administrative burden on medical professionals. While AI tools offer immense potential to improve patient outcomes and operational efficiency, issues regarding data privacy, algorithmic bias, and integration into existing hospital systems remain critical challenges that require continuous oversight.
+
+GENERATED SUMMARY (facebook/bart-large-cnn):
+Artificial intelligence is transforming healthcare by improving diagnostic accuracy in medical imaging and streamlining clinical documentation. While AI enhances patient outcomes and workflow efficiency, challenges such as data privacy and algorithmic bias require ongoing management.
+
+======================================================================
+SAMPLE ARTICLE 2: Renewable Energy and Climate Change
+======================================================================
+
+ORIGINAL TEXT:
+The shift toward renewable energy sources such as solar, wind, and hydroelectric power is accelerating globally as countries strive to combat climate change and reduce carbon emissions. Advancements in energy storage technologies, particularly lithium-ion and solid-state batteries, have made renewable energy more reliable and grid-friendly by mitigating intermittency issues. Governments worldwide are implementing supportive policies, tax incentives, and ambitious net-zero targets to transition away from fossil fuels. Despite these advancements, scaling renewable infrastructure requires substantial capital investment, modernizing electrical grids, and establishing sustainable supply chains for critical raw materials.
+
+GENERATED SUMMARY (facebook/bart-large-cnn):
+Global adoption of renewable energy sources is accelerating to combat climate change, supported by improvements in battery storage technology and government policies. However, expanding renewable infrastructure faces hurdles related to grid modernization and raw material supply chains.
